@@ -104,3 +104,8 @@ Using subtraction of the two images, the decline in the gray matter in the brain
 Note: The detection is not optimized due to lack of GPU and processing resources, due to which, the image was segmented, and parts of the image were used for comparison after subtraction. However, for the areas under comparison were detected successfully with an overall accuracy of 62% while the best validation accuracy was 64%.
 
 
+
+Code:
+
+Note: For purpose of segmentation, code of particular parts of the project has been split, to their respective algorithms folder(like SVM, Logistic Regression etc.). Pasting the Code in main.py, with the right datasets ( OASIS longitudinal for Machine Learning, and the ADNI dataset(fMRI), for the Deep Learning Part), with correct paths.
+
