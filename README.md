@@ -107,5 +107,5 @@ Note: The detection is not optimized due to lack of GPU and processing resources
 
 Code:
 
-Note: For purpose of segmentation, code of particular parts of the project has been split, to their respective algorithms folder(like SVM, Logistic Regression etc.). Pasting the Code in main.py, with the right datasets ( OASIS longitudinal for Machine Learning, and the ADNI dataset(fMRI), for the Deep Learning Part), with correct paths.
+Note: For purpose of segmentation, code of particular parts of the project has been split, to their respective algorithms folder(like SVM, Logistic Regression etc.). Pasting the Code together, with the right datasets ( OASIS longitudinal for Machine Learning, and the ADNI dataset(fMRI), for the Deep Learning Part), with correct paths.
 
