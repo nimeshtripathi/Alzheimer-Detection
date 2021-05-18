@@ -31,11 +31,17 @@ The column descriptors in the dataset are:
 
 
 Clinical Dementia Rating
+
 Socioeconomic Status
+
 Years of Education
+
 Mini-mental State Examination
+
 Atlas Scaling Factor
+
 Estimated Total Intracranial volume
+
 Normalize whole brain volume
 
 
