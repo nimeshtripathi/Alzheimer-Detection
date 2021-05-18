@@ -1,5 +1,8 @@
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import confusion_matrix
+import pandas as pd
+
+data = pd.read_csv('Oasis_longitudinal.csv')
 
 accuracy_list = []
 opt_score = 0
